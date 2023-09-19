@@ -1,0 +1,53 @@
+body{
+    background-size: cover;
+}
+#heading{
+    width: 100%;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0;
+    color: black;
+}
+#btnn{
+    margin-top: 20px;
+    font-size: 22px;
+    width: 100px;
+    font-weight: 300;
+}
+#btnn:hover{
+    color: black;
+    background-color: rgb(1, 81, 255);
+    font-weight: 700;
+}
+#no{
+    width: 18%;
+    font-size: 20;
+    color: black;
+    font-weight: 600;
+    text-align: left;
+    margin-right: 200px;
+}
+#status{
+    width: 14%;
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    text-align: left;
+    margin-right: 70px;
+}
+.copy_right_footer{
+    background-color: rgb(255, 136, 0);
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.25;
+    color: black;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px gray;
+    border: 2px dashed bisque;
+}
